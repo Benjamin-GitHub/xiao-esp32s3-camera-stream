@@ -1,0 +1,21 @@
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Local credentials
+secrets.h
+arduino_secrets.h
